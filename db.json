@@ -1,0 +1,109 @@
+{
+  "hierarchy": [
+    {
+      "id": "1",
+      "name": "Wodia University",
+      "description": "Root node",
+      "parentId": null,
+      "type": "University"
+    },
+    {
+      "id": "2",
+      "name": "Institute of Science",
+      "description": "Level 1 - Institute",
+      "parentId": 1,
+      "type": "Institute"
+    },
+    {
+      "id": "3",
+      "name": "School of Engineering",
+      "description": "Level 2 - School",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "4",
+      "name": "Department of Computer Science",
+      "description": "Level 3 - Department",
+      "parentId": 3,
+      "type": "Department"
+    },
+    {
+      "id": "5",
+      "name": "John Doe",
+      "description": "Leaf Node - Teacher",
+      "parentId": 4,
+      "type": "Teacher"
+    },
+    {
+      "id": "1741494785758",
+      "name": "Computing",
+      "description": "School of Computing",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741494786442",
+      "name": "Computing",
+      "description": "School of Computing",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741494786969",
+      "name": "Computing",
+      "description": "School of Computing",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741495000003",
+      "name": "Computing",
+      "description": "School of Computing",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741495395246",
+      "name": "School of Computing",
+      "description": "School under Institute",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741496116604",
+      "name": "smaslkma",
+      "description": "mx akcmsklc",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741496684539",
+      "name": "sodks",
+      "description": "kcms",
+      "parentId": 2,
+      "type": "School"
+    },
+    {
+      "id": "1741499278366",
+      "name": "xddsfs",
+      "description": "sca",
+      "parentId": 3,
+      "type": "Department"
+    },
+    {
+      "id": 1741592936962,
+      "name": "Technology",
+      "description": "Woldia University rtjwsjg",
+      "type": "Institute",
+      "parentId": 0
+    },
+    {
+      "id": 1741593141226,
+      "name": "School",
+      "description": "computi g",
+      "type": "School",
+      "parentId": 2
+    }
+  ]
+}
